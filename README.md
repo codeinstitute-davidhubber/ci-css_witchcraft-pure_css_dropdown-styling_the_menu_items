@@ -1,4 +1,4 @@
-### Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Styling Thehe Menu Items
+### Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Styling The Menu Items
 
 ***
      ____  _   _ ____ _____ _   _ ____ ___ ___  
@@ -14,7 +14,7 @@
 ***
 #### project url: **'https://davidhubber.github.io/ci-css_witchcraft-pure_css_dropdown-styling_the_menu_items/'**
 ***
-title: **'Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Styling Thehe Menu Items'**
+title: **'Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Styling The Menu Items'**
 
 description: **A pure CSS menu with list items that 'fall' down smoothly and show the list items without the use of JS**
 
@@ -32,4 +32,4 @@ credits:
 
 **• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
 
-### Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Styling Thehe Menu Items
+### Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Styling The Menu Items
