@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-css_witchcraft-pure_css_dropdown-styling_the_menu_items/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-css_witchcraft-pure_css_dropdown-styling_the_menu_items/'**
 ***
 title: **'Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Styling The Menu Items'**
 
